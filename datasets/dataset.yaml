@@ -1,0 +1,10 @@
+names:
+  0: aramco
+  1: dpworld
+  2: emirates
+  3: google
+  4: rexona
+  5: royalstag
+path: C:\Users\isaac's laptop\Desktop\jiohotstar\jiohotstar\datasets
+train: images/train
+val: images/val
